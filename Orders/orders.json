@@ -1,0 +1,47 @@
+{
+    "customers": [
+      {
+        "id": 1,
+        "name": "John",
+        "address": "123 Main St",
+        "orders": [
+          {
+            "order_id": 101,
+            "product": "Shirt"
+          },
+          {
+            "order_id": 102,
+            "product": "Shoes"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jane",
+        "address": "456 Elm St",
+        "orders": [
+          {
+            "order_id": 103,
+            "product": "Pants"
+          }
+        ]
+      }
+    ],
+    "products": [
+      {
+        "id": 101,
+        "name": "Shirt",
+        "price": 20
+      },
+      {
+        "id": 102,
+        "name": "Shoes",
+        "price": 50
+      },
+      {
+        "id": 103,
+        "name": "Pants",
+        "price": 30
+      }
+    ]
+  }  

@@ -1,0 +1,38 @@
+<library>
+  <book>
+    <id>1</id>
+    <title>Book A</title>
+    <authors>
+      <author>Author 1</author>
+      <author>Author 2</author>
+    </authors>
+    <borrowers>
+      <borrower>Borrower 1</borrower>
+      <borrower>Borrower 2</borrower>
+    </borrowers>
+  </book>
+  <book>
+    <id>2</id>
+    <title>Book B</title>
+    <authors>
+      <author>Author 1</author>
+      <author>Author 3</author>
+    </authors>
+    <borrowers>
+      <borrower>Borrower 2</borrower>
+      <borrower>Borrower 3</borrower>
+    </borrowers>
+  </book>
+  <book>
+    <id>3</id>
+    <title>Book C</title>
+    <authors>
+      <author>Author 2</author>
+      <author>Author 3</author>
+    </authors>
+    <borrowers>
+      <borrower>Borrower 1</borrower>
+      <borrower>Borrower 3</borrower>
+    </borrowers>
+  </book>
+</library>

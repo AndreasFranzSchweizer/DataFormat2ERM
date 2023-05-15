@@ -1,0 +1,94 @@
+<university>
+  <students>
+    <student id="1">
+      <name>John Doe</name>
+      <major>Computer Science</major>
+      <courses>
+        <course id="101">Database Management</course>
+        <course id="102">Web Development</course>
+      </courses>
+      <exams>
+        <exam>
+          <course_id>101</course_id>
+          <grade>A</grade>
+        </exam>
+        <exam>
+          <course_id>102</course_id>
+          <grade>B+</grade>
+        </exam>
+      </exams>
+    </student>
+    <student id="2">
+      <name>Jane Smith</name>
+      <major>Business Administration</major>
+      <courses>
+        <course id="101">Database Management</course>
+        <course id="103">Marketing</course>
+        <course id="104">Finance</course>
+      </courses>
+      <exams>
+        <exam>
+          <course_id>101</course_id>
+          <grade>A-</grade>
+        </exam>
+        <exam>
+          <course_id>103</course_id>
+          <grade>B</grade>
+        </exam>
+        <exam>
+          <course_id>104</course_id>
+          <grade>A</grade>
+        </exam>
+      </exams>
+    </student>
+  </students>
+  <courses>
+    <course id="101">
+      <name>Database Management</name>
+      <instructors>
+        <instructor id="201">Dr. Anderson</instructor>
+        <instructor id="202">Prof. Johnson</instructor>
+      </instructors>
+    </course>
+    <course id="102">
+      <name>Web Development</name>
+      <instructors>
+        <instructor id="203">Dr. Davis</instructor>
+      </instructors>
+    </course>
+    <course id="103">
+      <name>Marketing</name>
+      <instructors>
+        <instructor id="204">Prof. Wilson</instructor>
+      </instructors>
+    </course>
+    <course id="104">
+      <name>Finance</name>
+      <instructors>
+        <instructor id="205">Dr. Thompson</instructor>
+      </instructors>
+    </course>
+  </courses>
+  <instructors>
+    <instructor id="201">
+      <name>Dr. Anderson</name>
+      <department>Computer Science</department>
+    </instructor>
+    <instructor id="202">
+      <name>Prof. Johnson</name>
+      <department>Computer Science</department>
+    </instructor>
+    <instructor id="203">
+      <name>Dr. Davis</name>
+      <department>Computer Science</department>
+    </instructor>
+    <instructor id="204">
+      <name>Prof. Wilson</name>
+      <department>Business</department>
+    </instructor>
+    <instructor id="205">
+      <name>Dr. Thompson</name>
+      <department>Finance</department>
+    </instructor>
+  </instructors>
+</university>

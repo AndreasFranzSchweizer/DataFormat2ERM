@@ -1,0 +1,32 @@
+[
+    {
+      "PostID": 1,
+      "UserID": 1,
+      "Content": "Hello, world!",
+      "Likes": 10
+    },
+    {
+      "PostID": 2,
+      "UserID": 2,
+      "Content": "Just had a great day!",
+      "Likes": 25
+    },
+    {
+      "PostID": 3,
+      "UserID": 1,
+      "Content": "Excited for the weekend!",
+      "Likes": 15
+    },
+    {
+      "PostID": 4,
+      "UserID": 3,
+      "Content": "Feeling adventurous today!",
+      "Likes": 18
+    },
+    {
+      "PostID": 5,
+      "UserID": 4,
+      "Content": "Missing the beach...",
+      "Likes": 12
+    }
+  ]  

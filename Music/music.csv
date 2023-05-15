@@ -1,0 +1,8 @@
+ArtistID,ArtistName,AlbumID,AlbumTitle,Genre,ReleaseYear,TrackID,TrackTitle,Duration
+1,The Beatles,1,Abbey Road,Rock,1969,1,Come Together,4:20
+1,The Beatles,1,Abbey Road,Rock,1969,2,Something,3:03
+1,The Beatles,1,Abbey Road,Rock,1969,3,Here Comes the Sun,3:06
+2,Michael Jackson,2,Thriller,Pop,1982,1,Wanna Be Startin' Somethin',6:03
+2,Michael Jackson,2,Thriller,Pop,1982,2,Billie Jean,4:54
+3,Queen,3,A Night at the Opera,Rock,1975,1,Bohemian Rhapsody,5:55
+3,Queen,3,A Night at the Opera,Rock,1975,2,You're My Best Friend,2:50

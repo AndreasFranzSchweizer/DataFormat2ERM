@@ -1,0 +1,5 @@
+UserID,Username,Email,DateOfBirth,Country
+1,johndoe,johndoe@example.com,1990-05-15,USA
+2,janesmith,janesmith@example.com,1988-12-02,Canada
+3,mikejohnson,mikejohnson@example.com,1995-07-20,UK
+4,emilywilliams,emilywilliams@example.com,1992-03-10,Australia

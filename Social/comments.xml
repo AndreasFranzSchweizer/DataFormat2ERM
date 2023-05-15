@@ -1,0 +1,20 @@
+<comments>
+  <comment>
+    <CommentID>1</CommentID>
+    <PostID>1</PostID>
+    <UserID>2</UserID>
+    <Content>Great post!</Content>
+  </comment>
+  <comment>
+    <CommentID>2</CommentID>
+    <PostID>1</PostID>
+    <UserID>3</UserID>
+    <Content>Awesome!</Content>
+  </comment>
+  <comment>
+    <CommentID>3</CommentID>
+    <PostID>3</PostID>
+    <UserID>4</UserID>
+    <Content>Can't wait!</Content>
+  </comment>
+</comments>

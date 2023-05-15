@@ -1,0 +1,85 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "actors": [
+          "Leonardo DiCaprio",
+          "Joseph Gordon-Levitt",
+          "Elliot Page"
+        ],
+        "directors": [
+          "Christopher Nolan"
+        ],
+        "reviews": [
+          {
+            "review_id": 101,
+            "rating": 4.5,
+            "comment": "Great movie with mind-bending plot"
+          },
+          {
+            "review_id": 102,
+            "rating": 3.8,
+            "comment": "Visually stunning but complex"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "actors": [
+          "Tim Robbins",
+          "Morgan Freeman"
+        ],
+        "directors": [
+          "Frank Darabont"
+        ],
+        "reviews": [
+          {
+            "review_id": 103,
+            "rating": 4.9,
+            "comment": "One of the best movies ever made"
+          },
+          {
+            "review_id": 104,
+            "rating": 4.2,
+            "comment": "Emotionally powerful and thought-provoking"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "birth_year": 1974
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "birth_year": 1981
+      },
+      {
+        "name": "Elliot Page",
+        "birth_year": 1987
+      },
+      {
+        "name": "Tim Robbins",
+        "birth_year": 1958
+      },
+      {
+        "name": "Morgan Freeman",
+        "birth_year": 1937
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan",
+        "birth_year": 1970
+      },
+      {
+        "name": "Frank Darabont",
+        "birth_year": 1959
+      }
+    ]
+  }  
